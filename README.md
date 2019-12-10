@@ -17,6 +17,8 @@ gggggggggggggggggiiiiiiiiiiiming!!
 어떻게 될까?
 
 빈폴
+오오ㅗ코오코이키이이이잉키
+
 # 모지리 민재는 남자다
 
 > 깃 협업 배워보기~! 민재가 재밌어한다
