@@ -11,7 +11,7 @@ gggggggggggggggggiiiiiiiiiiiming!!
 빈파일 의식의 흐름ddddd그래도 한번
 다시한번
 또한번
-푸시
+푸시vntlvntl
 푸시푸시
 
 
@@ -21,7 +21,7 @@ gggggggggggggggggiiiiiiiiiiiming!!
 해준다
 어떻게 될까?
 
-빈폴
+빈폴ㄴㄴㄴㄴㄴㄴ
 오오ㅗ코오코이키이이이잉키
 
 # 모지리 민재는 남자다
