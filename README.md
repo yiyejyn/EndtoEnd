@@ -12,6 +12,10 @@ gggggggggggggggggiiiiiiiiiiiming!!
 
 빈거다여기도 추가
 
+민재가 쓸데없는 실험을 해보잔다
+해준다
+어떻게 될까?
+
 빈폴
 # 모지리 민재는 남자다
 
