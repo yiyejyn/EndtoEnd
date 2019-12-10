@@ -8,7 +8,12 @@ gggggggggggggggggiiiiiiiiiiiming!!
 계속 추가한다
 
 이상한 말 자꾸쓴다
-빈파일 의식의 흐름
+빈파일 의식의 흐름ddddd그래도 한번
+다시한번
+또한번
+푸시
+푸시푸시
+
 
 빈거다여기도 추가
 
