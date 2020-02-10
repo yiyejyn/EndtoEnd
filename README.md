@@ -47,3 +47,38 @@ gming : '라fkfkfkfkfk
 민재는 학구열이 뛰어나다
 민재는 또라이이다
 민재는 우리 반 마스코트이다
+
+
+
+
+
+
+# visualization libraries
+
+	/*
+	 * https://neo4j.com/developer/tools-graph-visualization/
+	 * 
+	 * https://medium.com/neo4j/visualizing-graphs-in-3d-with-webgl-9adaaff6fe43
+	 * https://github.com/Nhogs/popoto-examples/blob/master/materialize/readme.md
+	 * https://visjs.github.io/vis-network/examples/network/exampleApplications/lesMiserables.html
+	 * https://neo4j.com/blog/graphxr-graph-app-neo4j-desktop/
+	 * https://linkurio.us/blog/panama-papers-how-linkurious-enables-icij-to-investigate-the-massive-mossack-fonseca-leaks/
+	 * 
+	 * https://js.cytoscape.org/demos/colajs-graph/
+	 */
+   
+  
+# business logic
+  
+  
+  //collections.sort comparator정의, 내림차순
+	
+	//계산식
+	public double calculateScore() {
+		
+		// avg나 cnt가 0인 경우? null인 경우는?
+		double related = (avg * cnt * soldAmt * Math.sqrt(wish)) / distance;
+		double result = related/distance;
+
+		return result;
+	}
